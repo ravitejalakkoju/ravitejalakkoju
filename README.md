@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Teja</h1>
 <h3 align="center">I'm a Full Stack Developer focusing on designing and building intuitive, scalable applications.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django and React**
 
 - 👨‍💻 All of my projects are available at [https://www.augustinecreator.com](https://www.augustinecreator.com)
 
