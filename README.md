@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ravi Teja</h1>
+<h2 align="center">Hi 👋, I'm Ravi Teja</h2>
 <h3 align="center">I'm a Full Stack Developer focusing on designing and building intuitive, scalable applications.</h3>
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://www.augustinecreator.com](https://www.augustinecreator.com)
+- 👨‍💻 All of my projects are available at [augustinecreator.com](https://www.augustinecreator.com)
 
 - 💬 Ask me about **Web Tech, Space and Art**
 
 - 📫 How to reach me **ravitejal.creator@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xQhWyxZQJ8s2zd9jK4NQ8NINP7aKnT94/view](https://drive.google.com/file/d/1xQhWyxZQJ8s2zd9jK4NQ8NINP7aKnT94/view)
+- 💻 Checkout my front end development at [Codepen](https://codepen.io/ravitejalakkoju)
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xQhWyxZQJ8s2zd9jK4NQ8NINP7aKnT94/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
