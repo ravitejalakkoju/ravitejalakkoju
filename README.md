@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Ravi Teja</h2>
 <h3 align="center">I'm a Full Stack Developer focusing on designing and building intuitive, scalable applications.</h3>
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **ElasticSearch**
 
 - 👨‍💻 All of my projects are available at [augustinecreator.com](https://www.augustinecreator.com)
 
@@ -11,7 +11,7 @@
 
 - 💻 Checkout my front end development at [Codepen](https://codepen.io/ravitejalakkoju)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xQhWyxZQJ8s2zd9jK4NQ8NINP7aKnT94/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1oQ5DMisqoWeKkxZvc40taf5BnnoL07Of/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
