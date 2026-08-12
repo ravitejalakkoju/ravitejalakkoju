@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ElasticSearch**
 
-- 👨‍💻 All of my projects are available at [raviteja.netlify.app](https://raviteja.netlify.app)
+- 👨‍💻 All of my projects are available at [ravitejalakoju.netlify.app](https://ravitejalakoju.netlify.app)
 
 - 💬 Ask me about **Web Tech, Space and Art**
 
