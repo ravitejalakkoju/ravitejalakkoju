@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/terminal-mobile-v2.svg" />
-    <img src="./assets/terminal-v2.svg" alt="Ravi Teja — product engineer" width="100%" />
+    <source media="(max-width: 600px)" srcset="./assets/terminal-mobile-v4.svg" />
+    <img src="./assets/terminal-v4.svg" alt="Ravi Teja — product engineer" width="100%" />
   </picture>
 </p>
 
