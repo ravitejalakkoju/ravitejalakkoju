@@ -9,7 +9,7 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/terminal-stellar-mobile-v19.svg" />
-    <img src="./assets/terminal-stellar-v19.svg" alt="Ravi Teja — product engineer" width="100%" />
+    <source media="(max-width: 600px)" srcset="./assets/terminal-stellar-mobile-v20.svg" />
+    <img src="./assets/terminal-stellar-v20.svg" alt="Ravi Teja — product engineer" width="100%" />
   </picture>
 </p>
